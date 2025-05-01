@@ -1,0 +1,8 @@
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#808080</color>
+    <color name="edit_text_background">#DDDDDD</color>
+    <color name="button_background">#000000</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>
